@@ -31,6 +31,7 @@ def index():
 #set up our scraping route
 #this  route will be the "button" of the web application
 #it will scrape updated data when we tell it to from the homepage of our web app
+# update the database using .update()
 @app.route("/scrape")
 def scrape():
    mars = mongo.db.mars
@@ -38,10 +39,7 @@ def scrape():
    mars.update({}, mars_data, upsert=True)
    return redirect('/', code=302)
 
-#Now that we've gathered new data, we need to update the database using .update().
-mars.update({}, mars_data, upsert=True)
-
-
+#Flask run
 if __name__ == "__main__":
    app.run()
 

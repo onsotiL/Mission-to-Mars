@@ -10,3 +10,6 @@ This purpose of this project was to  automate a web browser to scrape data from 
 - ChromeDriverManager
 - Bootstrap components to enhance the HTML 
 
+![image](https://user-images.githubusercontent.com/90416094/146657517-b90b6fb2-35ab-4c90-8108-79fcb66820ce.png)
+
+

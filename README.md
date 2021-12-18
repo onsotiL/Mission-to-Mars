@@ -13,3 +13,4 @@ This purpose of this project was to  automate a web browser to scrape data from 
 ![image](https://user-images.githubusercontent.com/90416094/146657517-b90b6fb2-35ab-4c90-8108-79fcb66820ce.png)
 
 
+![image](https://user-images.githubusercontent.com/90416094/146657541-6d2d9a71-1e4a-49e9-ad01-6657a457b312.png)

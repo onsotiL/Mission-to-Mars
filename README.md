@@ -10,7 +10,7 @@ This purpose of this project was to  automate a web browser to scrape data from 
 - ChromeDriverManager
 - Bootstrap components to enhance the HTML 
 
-#### Scraped mars hemisphere titles and images
+### Scraped mars hemisphere titles and images
 
 ![image](https://user-images.githubusercontent.com/90416094/146687135-7c3ac18d-8044-4677-9011-520cdcc395ad.png)
 
@@ -22,5 +22,5 @@ This purpose of this project was to  automate a web browser to scrape data from 
 
 
 
-#### Webpage with a button to scrape new data
-![image](https://user-images.githubusercontent.com/90416094/146657541-6d2d9a71-1e4a-49e9-ad01-6657a457b312.png)
+### Webpage with a button to scrape new data
+![image](https://user-images.githubusercontent.com/90416094/146687150-7ea27bb7-fbb1-490f-a7a0-abce222a388a.png)

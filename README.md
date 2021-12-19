@@ -12,6 +12,7 @@ This purpose of this project was to  automate a web browser to scrape data from 
 
 #### Scraped mars hemisphere titles and images
 
+![image](https://user-images.githubusercontent.com/90416094/146687135-7c3ac18d-8044-4677-9011-520cdcc395ad.png)
 
 
 
